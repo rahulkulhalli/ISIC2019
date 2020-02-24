@@ -4,7 +4,12 @@ A repository for our explorations on the ISIC 2019 imaging dataset. Done in coll
 <hr />
 
 # References
-TODO: Add reference links
+ - The ISIC 2019 challenge: https://challenge2019.isic-archive.com/
+ - SA-GAN Paper: https://arxiv.org/pdf/1805.08318.pdf
+ - SA-GAN Implementation: https://github.com/brain-research/self-attention-gan
+ - Spectral Norm Paper: https://openreview.net/forum?id=B1QRgziT-
+ - SN-GAN Paper: https://openreview.net/forum?id=ByS1VpgRZ
+ - SN-GAN Implementation: https://github.com/pfnet-research/sngan_projection
 
 <hr />
 
