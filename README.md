@@ -1,14 +1,14 @@
 # ISIC2019
-A repository for our explorations on the ISIC 2019 imaging dataset.
+A repository for our explorations on the ISIC 2019 imaging dataset. Done in collaboration with <a href="https://github.com/savadikarc">Chinmay Savadikar</a>
 
 <hr />
 
-# REFERENCES
+# References
 TODO: Add reference links
 
 <hr />
 
-# SAMPLES
+# Samples
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
