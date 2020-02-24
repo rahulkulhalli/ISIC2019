@@ -26,5 +26,5 @@ A repository for our explorations on the ISIC 2019 imaging dataset. Done in coll
 
 <div align="Center">
 <img src="https://github.com/rahulkulhalli/ISIC2019/blob/master/images/interpolation.gif" alt="Interpolation with z=64"> <br />
-Interpolation
+nZ = 64
 </div>
