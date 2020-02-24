@@ -1,5 +1,9 @@
 class Config():
     
+    """
+    Hardcoded strings will be redacted for the sake of privacy. Please use your own strings in-place.
+    """
+    
     def __init__(self):
         
         # Declare parameters
@@ -17,8 +21,6 @@ class Config():
         self.d_lr = 0.0004
         # self.d_lr = 0.00011297181459240007
         
-        # 1500 * 170 = 255k
-        # 1mn/170 = 5.9k epochs lol
         self.epochs = 1500
         self.start_epoch = 0 # 509
         
@@ -32,8 +34,8 @@ class Config():
         self.batch_size = 128
         
         # Dataset
-        self.train_root = "/home/antpc/Documents/data_mount/ISIC2019/ISIC2019/Data_SAGAN/train"
-        self.test_root = "/home/antpc/Documents/data_mount/ISIC2019/ISIC2019/Data_SAGAN/test"
+        self.train_root = "/path/to/train/dir"
+        self.test_root = "/path/to/test/dir"
         
         self.sample_every_x_epochs = 1
         self.sample_every_x_iters = 50
