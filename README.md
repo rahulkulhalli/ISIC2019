@@ -3,6 +3,13 @@ A repository for our explorations on the ISIC 2019 imaging dataset.
 
 <hr />
 
+# REFERENCES
+TODO: Add reference links
+
+<hr />
+
+# SAMPLES
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Epoch 100" src="https://github.com/rahulkulhalli/ISIC2019/blob/master/images/100.png"> Epoch 100 |  <img width="1604" alt="Epoch 300" src="https://github.com/rahulkulhalli/ISIC2019/blob/master/images/300.png"> Epoch 300 |<img width="1604" alt="Epoch 400" src="https://github.com/rahulkulhalli/ISIC2019/blob/master/images/400.png"> Epoch 400 |
